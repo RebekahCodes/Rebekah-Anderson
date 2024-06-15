@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @RebekahCodes
-- 🌱 I’m currently learning how to code!
-- 📫 How to reach me rebekahcodes@gmail.com
+- 👋 Hi, I’m Rebekah
 - 😄 Pronouns: she/her
+- 🌱 I’m a School of Code Bootcamp Graduate 2024!
+- 📫 How to reach me rebekahcodes@gmail.com
 - ⚡ Fun fact: I have an allotment plot where I grow vegetable and flowers 
 
 <!---
